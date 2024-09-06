@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#mobile-list div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
